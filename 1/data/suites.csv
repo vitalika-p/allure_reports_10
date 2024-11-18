@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11583","Проверка названия Issue с помощью лямбда шаги через step","","Mon Nov 18 09:13:35 GMT 2024","passed","Mon Nov 18 09:13:47 GMT 2024","","AllureTests","AllureTests","lambdaIssueNameTest"
+"","9281","Проверка названия Issue с помощью Selenide и Listener","","Mon Nov 18 09:13:47 GMT 2024","passed","Mon Nov 18 09:13:56 GMT 2024","","AllureTests","AllureTests","selenideIssueNameTest"
+"","8772","Проверка названия Issue с помощью аннотаций","","Mon Nov 18 09:13:56 GMT 2024","passed","Mon Nov 18 09:14:05 GMT 2024","","AllureTests","AllureTests","annotationIssueNameTest"
